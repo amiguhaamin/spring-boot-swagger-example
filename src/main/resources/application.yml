@@ -1,2 +1,5 @@
 server:
   port: 9000
+
+app:
+  restart-in-minutes: 30
